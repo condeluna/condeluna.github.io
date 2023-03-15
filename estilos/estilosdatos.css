@@ -1,0 +1,21 @@
+body{
+    background-color: #fee3e5;
+}
+#datos{
+    text-align: center;
+    color: #a3386c;
+    font-family: fantasy;
+    font-size: 40px;
+}
+#cancun{
+    color: #f1a0af;
+    font-family: cursive;
+}
+#aires{
+    color: #f1a0af;
+    font-family: cursive;
+}
+p{
+    font-size: 20px;
+    color: #2874a6;
+}

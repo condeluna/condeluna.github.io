@@ -1,0 +1,35 @@
+body{
+    background-color: #fee3e5;
+}
+#temp1{
+    text-align: center;
+    color: #f1a0af;
+    font-family: cursive;
+}
+#temp2{
+    text-align: center;
+    color: #f1a0af;
+    font-family: cursive;
+}
+#temp3{
+    text-align: center;
+    color: #f1a0af;
+    font-family: cursive;
+}
+#tempz{
+    color: #a3386c;
+    font-family: fantasy;
+    font-size:40px;
+    text-align: center
+}
+p{
+    font-size: 20px;
+    color: #2874a6;
+}
+li{
+    color: #faa300;
+    font-size: 20px;
+}
+#cast{
+    color:#a3386c;
+}

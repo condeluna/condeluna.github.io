@@ -1,0 +1,22 @@
+body{
+    background-color: #fee3e5;
+}
+#soy{
+    text-align: center;
+    color: #a3386c;
+}
+#parrafo{
+    text-align: center;
+    font-size: 20px;
+    color: #2874a6;
+}
+#cuadrito{
+    text-align: left;
+    font-size: 20px;
+    color: #ffd500;
+}
+#foto1{
+    border: double;
+    border-style:groove;
+    border-color: #ffc2db;
+}
